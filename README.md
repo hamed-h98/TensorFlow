@@ -1,4 +1,4 @@
-# 🤖 TensorFlow Practice – Deep Learning with Python
+# TensorFlow Practice
 
 This repository contains my personal TensorFlow practice based on the tutorial by **freeCodeCamp** and the official **TensorFlow documentation**.
 
